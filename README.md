@@ -1,14 +1,14 @@
 # Free_blogging-by-django
-#enviroment
+##enviroment
 conda activate base
-#Django install
+##Django install
 pip install django
-#Run 
+##Run 
 python manage.py runserver
-#admin
+##admin
 username:hp
 password:1234
 
-#Project devloped by
+##Project devloped by
 Md.Injamul Haqu
 BSc in CSE,DIU
